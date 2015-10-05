@@ -31,6 +31,7 @@ just a megaman game test
 	- wall slide
 	- wall slide and jump
 	- dash
+	- upper dash
 
 - player atack
 	- shoot
@@ -39,6 +40,11 @@ just a megaman game test
 	- dash and shoot
 	- jump and shoot
 	- wall slide and shoot
+	- meele atack
+	- meele combo
+	- dash and meele atack
+	- jump and meele atack
+	- fall and meele atack
 
 ##Enemy
 
