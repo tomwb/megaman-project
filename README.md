@@ -54,8 +54,8 @@ just a megaman game test
 
 ##Itens
 
--Itens Efects List
-	-recover life
+- Itens Efects List
+	- recover life
 
 
 
