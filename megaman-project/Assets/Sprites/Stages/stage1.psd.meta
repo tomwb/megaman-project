@@ -1,0 +1,385 @@
+fileFormatVersion: 2
+guid: d486600327d634cd28a06dda18bc15f9
+timeCreated: 1444153178
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: stage1_0
+    21300002: stage1_1
+    21300004: stage1_2
+    21300006: background
+    21300008: stage1_4
+    21300010: stage1_5
+    21300012: stage1_6
+    21300014: stage1_7
+    21300016: stage1_8
+    21300018: stage1_9
+    21300020: stage1_10
+    21300022: stage1_11
+    21300024: stage1_12
+    21300026: stage1_13
+    21300028: stage1_14
+    21300030: stage1_15
+    21300032: stage1_16
+    21300034: stage1_17
+    21300036: stage1_18
+    21300038: stage1_19
+    21300040: stage1_20
+    21300042: stage1_21
+    21300044: stage1_22
+    21300046: stage1_23
+    21300048: stage1_24
+    21300050: stage1_25
+    21300052: stage1_26
+    21300054: car
+    21300056: truck
+    21300058: stage1_29
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 50
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: stage1_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 338
+        width: 24
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stage1_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 382
+        width: 128
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stage1_2
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 253
+        width: 31
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: background
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 45
+        width: 64
+        height: 352
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stage1_4
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 340
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stage1_5
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 340
+        width: 96
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stage1_6
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 340
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stage1_7
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 255
+        width: 16
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stage1_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 270
+        width: 32
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stage1_9
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 280
+        width: 4
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stage1_10
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 280
+        width: 92
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stage1_11
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 314
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stage1_12
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 296
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stage1_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 178
+        width: 128
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stage1_14
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 256
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stage1_15
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 178
+        width: 9
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stage1_16
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 177
+        width: 14
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stage1_17
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 224
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stage1_18
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 91
+        width: 17
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stage1_19
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 91
+        width: 40
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stage1_20
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 91
+        width: 32
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stage1_21
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 158
+        width: 92
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stage1_22
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 93
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stage1_23
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 93
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stage1_24
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 70
+        width: 64
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stage1_25
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 44
+        width: 56
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stage1_26
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 44
+        width: 151
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: car
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1
+        width: 78
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: truck
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 97
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stage1_29
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 0
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

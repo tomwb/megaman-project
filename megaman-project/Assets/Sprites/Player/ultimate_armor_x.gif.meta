@@ -1,0 +1,3278 @@
+fileFormatVersion: 2
+guid: 220e1f93f5e524c6a95966e7085ece18
+timeCreated: 1444148695
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: start_01
+    21300002: start_02
+    21300004: start_03
+    21300006: start_04
+    21300008: start_05
+    21300010: start_06
+    21300012: start_07
+    21300014: jump_01
+    21300016: jump_02
+    21300018: jump_03
+    21300020: jump_04
+    21300022: jump_05
+    21300024: jump_06
+    21300026: jump_07
+    21300028: jump_08
+    21300030: jump_09
+    21300032: jump_10
+    21300034: jump_11
+    21300036: shoot_01
+    21300038: shoot_02
+    21300040: shoot_03
+    21300042: shoot_04
+    21300044: shoot_05
+    21300046: shoot_06
+    21300048: shoot_07
+    21300050: shoot_08
+    21300052: shoot_special_03
+    21300054: shoot_special_04
+    21300056: shoot_special_05
+    21300058: ultimate_armor_x_29
+    21300060: ultimate_armor_x_30
+    21300062: shoot_special_01
+    21300064: shoot_special_02
+    21300066: shoot_special_06
+    21300068: ultimate_armor_x_34
+    21300070: shoot_special_08
+    21300072: shoot_special_07
+    21300074: walk_start_01
+    21300076: walk_start_02
+    21300078: walk_01
+    21300080: walk_02
+    21300082: walk_03
+    21300084: walk_start_06
+    21300086: walk_05
+    21300088: walk_06
+    21300090: walk_07
+    21300092: walk_08
+    21300094: walk_09
+    21300096: walk_10
+    21300098: walk_11
+    21300100: walk_12
+    21300102: walk_13
+    21300104: walk_14
+    21300106: dash_start_01
+    21300108: dash_start_02
+    21300110: dash_start_03
+    21300112: dash_start_04
+    21300114: dash_finish_01
+    21300116: dash_finish_02
+    21300118: dash_finish_03
+    21300120: dash_finish_04
+    21300122: jetpack_back_01
+    21300124: jetpack_back_02
+    21300126: jetpack_back_03
+    21300128: jetpack_back_04
+    21300130: jetpack_back_05
+    21300132: jetpack_back_06
+    21300134: jetpack_01
+    21300136: jetpack_02
+    21300138: jetpack_03
+    21300140: jetpack_front_01
+    21300142: jetpack_front_02
+    21300144: jetpack_front_03
+    21300146: jetpack_front_04
+    21300148: jetpack_front_05
+    21300150: jetpack_front_06
+    21300152: gun_jump_01
+    21300154: gun_jump_02
+    21300156: gun_jump_03
+    21300158: gun_jump_04
+    21300160: gun_jump_05
+    21300162: gun_jump_06
+    21300164: gun_jump_07
+    21300166: gun_jump_08
+    21300168: gun_jump_09
+    21300170: gun_jump_10
+    21300172: gun_jump_11
+    21300174: gun_jump_12
+    21300176: gun_jump_13
+    21300178: gun_jump_14
+    21300180: gun_jump_15
+    21300182: gun_jump_16
+    21300184: gun_jump_17
+    21300186: gun_jump_18
+    21300188: gun_jump_19
+    21300190: gun_jump_20
+    21300192: gun_jump_21
+    21300194: gun_jump_22
+    21300196: gun_walk_start_01
+    21300198: gun_walk_start_02
+    21300200: gun_walk_start_03
+    21300202: gun_walk_start_04
+    21300204: gun_walk_start_05
+    21300206: gun_walk_start_06
+    21300208: gun_walk_start_07
+    21300210: gun_walk_start_08
+    21300212: gun_walk_start_09
+    21300214: gun_walk_start_10
+    21300216: gun_walk_start_11
+    21300218: gun_walk_start_12
+    21300220: gun_walk_start_13
+    21300222: gun_walk_start_14
+    21300224: gun_walk_start_15
+    21300226: gun_walk_start_16
+    21300228: gun_walk_01
+    21300230: gun_walk_02
+    21300232: gun_walk_03
+    21300234: gun_walk_04
+    21300236: gun_walk_05
+    21300238: gun_walk_06
+    21300240: gun_walk_07
+    21300242: gun_walk_08
+    21300244: gun_walk_09
+    21300246: gun_walk_10
+    21300248: gun_walk_11
+    21300250: gun_walk_12
+    21300252: gun_walk_13
+    21300254: gun_walk_14
+    21300256: gun_walk_15
+    21300258: gun_walk_16
+    21300260: gun_dash_start_01
+    21300262: gun_dash_start_02
+    21300264: gun_dash_start_03
+    21300266: gun_dash_start_04
+    21300268: gun_dash_start_05
+    21300270: gun_dash_start_06
+    21300272: gun_dash_start_07
+    21300274: gun_dash_start_08
+    21300276: gun_dash_finish_01
+    21300278: gun_dash_finish_02
+    21300280: gun_dash_finish_03
+    21300282: gun_dash_finish_04
+    21300284: gun_dash_finish_05
+    21300286: gun_dash_finish_06
+    21300288: gun_dash_finish_07
+    21300290: gun_dash_finish_08
+    21300292: gun_jetpack_back_01
+    21300294: gun_jetpack_back_02
+    21300296: gun_jetpack_back_03
+    21300298: gun_jetpack_back_04
+    21300300: gun_jetpack_back_05
+    21300302: gun_jetpack_back_06
+    21300304: gun_jetpack_back_07
+    21300306: gun_jetpack_back_08
+    21300308: gun_jetpack_back_09
+    21300310: gun_jetpack_back_10
+    21300312: gun_jetpack_back_11
+    21300314: gun_jetpack_back_12
+    21300316: gun_jetpack_01
+    21300318: gun_jetpack_02
+    21300320: gun_jetpack_03
+    21300322: gun_jetpack_04
+    21300324: ultimate_armor_x_162
+    21300326: gun_jetpack_05
+    21300328: gun_jetpack_front_01
+    21300330: gun_jetpack_front_02
+    21300332: gun_jetpack_front_03
+    21300334: gun_jetpack_front_04
+    21300336: gun_jetpack_front_05
+    21300338: gun_jetpack_front_06
+    21300340: gun_jetpack_front_07
+    21300342: gun_jetpack_front_08
+    21300344: gun_jetpack_front_09
+    21300346: gun_jetpack_front_10
+    21300348: gun_jetpack_front_11
+    21300350: gun_jetpack_front_12
+    21300352: wall_slide_01
+    21300354: wall_slide_02
+    21300356: wall_slide_03
+    21300358: wall_slide_04
+    21300360: ultimate_armor_x_180
+    21300362: wall_slide_06
+    21300364: gun_wall_slide_01
+    21300366: gun_wall_slide_02
+    21300368: gun_wall_slide_03
+    21300370: gun_wall_slide_04
+    21300372: gun_wall_slide_05
+    21300374: gun_wall_slide_06
+    21300376: gun_wall_slide_07
+    21300378: gun_wall_slide_08
+    21300380: gun_wall_slide_09
+    21300382: gun_wall_slide_10
+    21300384: gun_wall_slide_11
+    21300386: gun_wall_slide_12
+    21300388: stairs_01
+    21300390: stairs_02
+    21300392: stairs_03
+    21300394: stairs_04
+    21300396: stairs_05
+    21300398: stairs_06
+    21300400: stairs_07
+    21300402: stairs_09
+    21300404: stairs_10
+    21300406: stairs_11
+    21300408: stairs_gun_01
+    21300410: stairs_gun_02
+    21300412: stairs_gun_03
+    21300414: special_dash_01
+    21300416: special_dash_02
+    21300418: special_dash_03
+    21300420: special_dash_04
+    21300422: special_dash_05
+    21300424: special_dash_06
+    21300426: special_dash_07
+    21300428: special_dash_08
+    21300430: special_dash_09
+    21300432: ultimate_armor_x_216
+    21300434: ultimate_armor_x_217
+    21300436: ultimate_armor_x_218
+    21300438: ultimate_armor_x_219
+    21300440: ultimate_armor_x_220
+    21300442: ultimate_armor_x_221
+    21300444: ultimate_armor_x_222
+    21300446: ultimate_armor_x_223
+    21300448: ultimate_armor_x_224
+    21300450: ultimate_armor_x_225
+    21300452: teleport_04
+    21300454: teleport_07
+    21300456: teleport_08
+    21300458: ultimate_armor_x_229
+    21300460: teleport_09
+    21300462: teleport_10
+    21300464: teleport_01
+    21300466: teleport_03
+    21300468: teleport_05
+    21300470: ultimate_armor_x_235
+    21300472: ultimate_armor_x_236
+    21300474: teleport_02
+    21300476: ultimate_armor_x_238
+    21300478: ultimate_armor_x_239
+    21300480: ultimate_armor_x_240
+    21300482: ultimate_armor_x_241
+    21300484: ultimate_armor_x_242
+    21300486: ultimate_armor_x_243
+    21300488: ultimate_armor_x_244
+    21300490: ultimate_armor_x_245
+    21300492: ultimate_armor_x_246
+    21300494: ultimate_armor_x_247
+    21300496: ultimate_armor_x_248
+    21300498: ultimate_armor_x_249
+    21300500: ultimate_armor_x_250
+    21300502: ultimate_armor_x_251
+    21300504: ultimate_armor_x_252
+    21300506: ultimate_armor_x_253
+    21300508: ultimate_armor_x_254
+    21300510: ultimate_armor_x_255
+    21300512: ultimate_armor_x_256
+    21300514: ultimate_armor_x_257
+    21300516: ultimate_armor_x_258
+    21300518: ultimate_armor_x_259
+    21300520: ultimate_armor_x_260
+    21300522: ultimate_armor_x_261
+    21300524: ultimate_armor_x_262
+    21300526: ultimate_armor_x_263
+    21300528: ultimate_armor_x_264
+    21300530: ultimate_armor_x_265
+    21300532: ultimate_armor_x_266
+    21300534: ultimate_armor_x_267
+    21300536: ultimate_armor_x_268
+    21300538: ultimate_armor_x_269
+    21300540: ultimate_armor_x_270
+    21300542: ultimate_armor_x_271
+    21300544: ultimate_armor_x_272
+    21300546: ultimate_armor_x_273
+    21300548: ultimate_armor_x_274
+    21300550: ultimate_armor_x_275
+    21300552: ultimate_armor_x_276
+    21300554: ultimate_armor_x_277
+    21300556: ultimate_armor_x_278
+    21300558: ultimate_armor_x_279
+    21300560: ultimate_armor_x_280
+    21300562: ultimate_armor_x_281
+    21300564: ultimate_armor_x_282
+    21300566: ultimate_armor_x_283
+    21300568: ultimate_armor_x_284
+    21300570: ultimate_armor_x_285
+    21300572: ultimate_armor_x_286
+    21300574: ultimate_armor_x_287
+    21300576: ultimate_armor_x_288
+    21300578: ultimate_armor_x_289
+    21300580: ultimate_armor_x_290
+    21300582: ultimate_armor_x_291
+    21300584: ultimate_armor_x_292
+    21300586: ultimate_armor_x_293
+    21300588: ultimate_armor_x_294
+    21300590: ultimate_armor_x_295
+    21300592: ultimate_armor_x_296
+    21300594: ultimate_armor_x_297
+    21300596: ultimate_armor_x_298
+    21300598: ultimate_armor_x_299
+    21300600: ultimate_armor_x_300
+    21300602: ultimate_armor_x_301
+    21300604: stairs_08
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 50
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: start_01
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 2265
+        width: 41
+        height: 48
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: start_02
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 2265
+        width: 39
+        height: 50
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: start_03
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 2265
+        width: 37
+        height: 51
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: start_04
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 2265
+        width: 37
+        height: 50
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: start_05
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 2265
+        width: 37
+        height: 48
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: start_06
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 2265
+        width: 38
+        height: 48
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: start_07
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 2265
+        width: 37
+        height: 48
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jump_01
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 2199
+        width: 28
+        height: 53
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jump_02
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 2199
+        width: 25
+        height: 56
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jump_03
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 2199
+        width: 25
+        height: 58
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jump_04
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 2199
+        width: 25
+        height: 60
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jump_05
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 2201
+        width: 30
+        height: 58
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jump_06
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 2204
+        width: 36
+        height: 55
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jump_07
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 2203
+        width: 35
+        height: 56
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jump_08
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 2200
+        width: 31
+        height: 59
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jump_09
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 2199
+        width: 33
+        height: 56
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jump_10
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 2198
+        width: 33
+        height: 52
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jump_11
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 2199
+        width: 35
+        height: 48
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shoot_01
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 2142
+        width: 51
+        height: 49
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shoot_02
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 2142
+        width: 50
+        height: 49
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shoot_03
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 2142
+        width: 51
+        height: 49
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shoot_04
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 2142
+        width: 51
+        height: 49
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shoot_05
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 2142
+        width: 42
+        height: 49
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shoot_06
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 2142
+        width: 50
+        height: 49
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shoot_07
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 2142
+        width: 40
+        height: 49
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shoot_08
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 2142
+        width: 37
+        height: 50
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shoot_special_03
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 2062
+        width: 52
+        height: 70
+      alignment: 9
+      pivot: {x: .379999995, y: .0599999987}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shoot_special_04
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2058
+        width: 58
+        height: 77
+      alignment: 9
+      pivot: {x: .340000004, y: .0900000036}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shoot_special_05
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 2058
+        width: 42
+        height: 78
+      alignment: 9
+      pivot: {x: .5, y: .0900000036}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shoot_special_01
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 2064
+        width: 49
+        height: 57
+      alignment: 9
+      pivot: {x: .409999996, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shoot_special_02
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 2064
+        width: 49
+        height: 64
+      alignment: 9
+      pivot: {x: .409999996, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shoot_special_06
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 2060
+        width: 43
+        height: 76
+      alignment: 9
+      pivot: {x: .469999999, y: .0599999987}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shoot_special_08
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 2064
+        width: 36
+        height: 53
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shoot_special_07
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 2064
+        width: 38
+        height: 52
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walk_start_01
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 2008
+        width: 35
+        height: 50
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walk_start_02
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 2008
+        width: 33
+        height: 50
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walk_01
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 2008
+        width: 34
+        height: 51
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walk_02
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 2008
+        width: 42
+        height: 48
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walk_03
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 2007
+        width: 50
+        height: 48
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walk_start_06
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 2008
+        width: 50
+        height: 48
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walk_05
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 2008
+        width: 41
+        height: 49
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walk_06
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 2006
+        width: 32
+        height: 49
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walk_07
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1950
+        width: 29
+        height: 51
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walk_08
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1947
+        width: 37
+        height: 50
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walk_09
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1948
+        width: 42
+        height: 50
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walk_10
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1948
+        width: 44
+        height: 49
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walk_11
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1950
+        width: 44
+        height: 49
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walk_12
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1947
+        width: 41
+        height: 50
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walk_13
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1947
+        width: 34
+        height: 51
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walk_14
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1948
+        width: 29
+        height: 53
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dash_start_01
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1895
+        width: 37
+        height: 45
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dash_start_02
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1894
+        width: 49
+        height: 41
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dash_start_03
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1895
+        width: 55
+        height: 36
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dash_start_04
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1893
+        width: 56
+        height: 36
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dash_finish_01
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1894
+        width: 40
+        height: 48
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dash_finish_02
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1894
+        width: 33
+        height: 49
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dash_finish_03
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1894
+        width: 44
+        height: 46
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dash_finish_04
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1895
+        width: 36
+        height: 46
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jetpack_back_01
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1826
+        width: 35
+        height: 59
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jetpack_back_02
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1827
+        width: 36
+        height: 57
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jetpack_back_03
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1825
+        width: 34
+        height: 55
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jetpack_back_04
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1824
+        width: 31
+        height: 63
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jetpack_back_05
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1826
+        width: 31
+        height: 61
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jetpack_back_06
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1825
+        width: 29
+        height: 60
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jetpack_01
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1826
+        width: 35
+        height: 65
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jetpack_02
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1825
+        width: 35
+        height: 63
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jetpack_03
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1826
+        width: 34
+        height: 61
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jetpack_front_01
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1768
+        width: 42
+        height: 53
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jetpack_front_02
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1766
+        width: 41
+        height: 53
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jetpack_front_03
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1766
+        width: 39
+        height: 53
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jetpack_front_04
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1769
+        width: 43
+        height: 54
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jetpack_front_05
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1767
+        width: 42
+        height: 53
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jetpack_front_06
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1765
+        width: 41
+        height: 53
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_jump_01
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1705
+        width: 37
+        height: 53
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_jump_02
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1705
+        width: 37
+        height: 53
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_jump_03
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1702
+        width: 36
+        height: 56
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_jump_04
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1702
+        width: 37
+        height: 56
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_jump_05
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1700
+        width: 36
+        height: 58
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_jump_06
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1699
+        width: 36
+        height: 58
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_jump_07
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1697
+        width: 36
+        height: 60
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_jump_08
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1697
+        width: 36
+        height: 60
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_jump_09
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1699
+        width: 40
+        height: 58
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_jump_10
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 1699
+        width: 39
+        height: 58
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_jump_11
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 1702
+        width: 42
+        height: 55
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_jump_12
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1702
+        width: 42
+        height: 55
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_jump_13
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1635
+        width: 42
+        height: 56
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_jump_14
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1634
+        width: 41
+        height: 56
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_jump_15
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1633
+        width: 40
+        height: 59
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_jump_16
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1633
+        width: 40
+        height: 59
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_jump_17
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1636
+        width: 40
+        height: 56
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_jump_18
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1636
+        width: 40
+        height: 56
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_jump_19
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1635
+        width: 42
+        height: 52
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_jump_20
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1635
+        width: 42
+        height: 52
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_jump_21
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1634
+        width: 45
+        height: 48
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_jump_22
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1635
+        width: 45
+        height: 48
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_walk_start_01
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1581
+        width: 47
+        height: 50
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_walk_start_02
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1581
+        width: 47
+        height: 50
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_walk_start_03
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1581
+        width: 47
+        height: 50
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_walk_start_04
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1580
+        width: 46
+        height: 50
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_walk_start_05
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1580
+        width: 47
+        height: 51
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_walk_start_06
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1580
+        width: 47
+        height: 51
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_walk_start_07
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1581
+        width: 52
+        height: 47
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_walk_start_08
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1581
+        width: 52
+        height: 47
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_walk_start_09
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1528
+        width: 56
+        height: 48
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_walk_start_10
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1528
+        width: 56
+        height: 48
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_walk_start_11
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1528
+        width: 56
+        height: 48
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_walk_start_12
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1528
+        width: 56
+        height: 48
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_walk_start_13
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1528
+        width: 50
+        height: 49
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_walk_start_14
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1528
+        width: 50
+        height: 49
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_walk_start_15
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1528
+        width: 46
+        height: 50
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_walk_start_16
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1528
+        width: 45
+        height: 50
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_walk_01
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1473
+        width: 41
+        height: 51
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_walk_02
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1473
+        width: 41
+        height: 51
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_walk_03
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1473
+        width: 48
+        height: 50
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_walk_04
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1473
+        width: 48
+        height: 50
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_walk_05
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1472
+        width: 51
+        height: 50
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_walk_06
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1472
+        width: 51
+        height: 50
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_walk_07
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1472
+        width: 55
+        height: 49
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_walk_08
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1472
+        width: 55
+        height: 49
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_walk_09
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1414
+        width: 54
+        height: 47
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_walk_10
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1414
+        width: 54
+        height: 47
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_walk_11
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1414
+        width: 52
+        height: 50
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_walk_12
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1414
+        width: 52
+        height: 50
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_walk_13
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1414
+        width: 46
+        height: 51
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_walk_14
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1414
+        width: 47
+        height: 51
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_walk_15
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1414
+        width: 43
+        height: 52
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_walk_16
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1414
+        width: 43
+        height: 53
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_dash_start_01
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1362
+        width: 48
+        height: 45
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_dash_start_02
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1362
+        width: 48
+        height: 45
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_dash_start_03
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1362
+        width: 58
+        height: 41
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_dash_start_04
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1362
+        width: 58
+        height: 41
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_dash_start_05
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1362
+        width: 64
+        height: 36
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_dash_start_06
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1362
+        width: 64
+        height: 36
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_dash_start_07
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1362
+        width: 68
+        height: 36
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_dash_start_08
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 1362
+        width: 68
+        height: 36
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_dash_finish_01
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1306
+        width: 50
+        height: 48
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_dash_finish_02
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1306
+        width: 50
+        height: 48
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_dash_finish_03
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1306
+        width: 47
+        height: 49
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_dash_finish_04
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1304
+        width: 47
+        height: 50
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_dash_finish_05
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1304
+        width: 46
+        height: 47
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_dash_finish_06
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1304
+        width: 46
+        height: 47
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_dash_finish_07
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1304
+        width: 50
+        height: 47
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_dash_finish_08
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 1304
+        width: 51
+        height: 47
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_jetpack_back_01
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1236
+        width: 31
+        height: 59
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_jetpack_back_02
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1236
+        width: 32
+        height: 59
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_jetpack_back_03
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1238
+        width: 31
+        height: 57
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_jetpack_back_04
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1238
+        width: 30
+        height: 57
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_jetpack_back_05
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1240
+        width: 31
+        height: 55
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_jetpack_back_06
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1240
+        width: 30
+        height: 55
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_jetpack_back_07
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1232
+        width: 33
+        height: 63
+      alignment: 9
+      pivot: {x: .5, y: .150000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_jetpack_back_08
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1233
+        width: 33
+        height: 63
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_jetpack_back_09
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1235
+        width: 34
+        height: 61
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_jetpack_back_10
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1235
+        width: 33
+        height: 61
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_jetpack_back_11
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1236
+        width: 34
+        height: 60
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_jetpack_back_12
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 1236
+        width: 33
+        height: 60
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_jetpack_01
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1164
+        width: 41
+        height: 66
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_jetpack_02
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1164
+        width: 41
+        height: 66
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_jetpack_03
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1166
+        width: 41
+        height: 63
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_jetpack_04
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1166
+        width: 42
+        height: 63
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ultimate_armor_x_162
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1168
+        width: 41
+        height: 61
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_jetpack_05
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1168
+        width: 40
+        height: 62
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_jetpack_front_01
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1176
+        width: 51
+        height: 53
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_jetpack_front_02
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1176
+        width: 51
+        height: 55
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_jetpack_front_03
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1175
+        width: 52
+        height: 53
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_jetpack_front_04
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1175
+        width: 52
+        height: 53
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_jetpack_front_05
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 1175
+        width: 50
+        height: 53
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_jetpack_front_06
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1175
+        width: 51
+        height: 53
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_jetpack_front_07
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1109
+        width: 58
+        height: 55
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_jetpack_front_08
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1109
+        width: 57
+        height: 55
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_jetpack_front_09
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1111
+        width: 56
+        height: 53
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_jetpack_front_10
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1111
+        width: 56
+        height: 53
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_jetpack_front_11
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1111
+        width: 54
+        height: 53
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_jetpack_front_12
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1111
+        width: 54
+        height: 53
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wall_slide_01
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1047
+        width: 35
+        height: 54
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wall_slide_02
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1046
+        width: 36
+        height: 59
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wall_slide_03
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1047
+        width: 37
+        height: 57
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wall_slide_04
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1045
+        width: 34
+        height: 60
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ultimate_armor_x_180
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1046
+        width: 33
+        height: 58
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wall_slide_06
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1045
+        width: 31
+        height: 59
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_wall_slide_01
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1046
+        width: 40
+        height: 54
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_wall_slide_02
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1046
+        width: 40
+        height: 54
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_wall_slide_03
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1044
+        width: 45
+        height: 59
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_wall_slide_04
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 1044
+        width: 45
+        height: 59
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_wall_slide_05
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 979
+        width: 46
+        height: 57
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_wall_slide_06
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 979
+        width: 46
+        height: 57
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_wall_slide_07
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 978
+        width: 44
+        height: 60
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_wall_slide_08
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 978
+        width: 43
+        height: 60
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_wall_slide_09
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 981
+        width: 40
+        height: 58
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_wall_slide_10
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 981
+        width: 40
+        height: 58
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_wall_slide_11
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 981
+        width: 40
+        height: 59
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_wall_slide_12
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 981
+        width: 39
+        height: 59
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stairs_01
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 894
+        width: 32
+        height: 60
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stairs_02
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 897
+        width: 34
+        height: 55
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stairs_03
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 901
+        width: 37
+        height: 51
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stairs_04
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 897
+        width: 33
+        height: 61
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stairs_05
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 897
+        width: 32
+        height: 61
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stairs_06
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 900
+        width: 36
+        height: 54
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stairs_07
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 903
+        width: 37
+        height: 56
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stairs_09
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 904
+        width: 37
+        height: 53
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stairs_10
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 925
+        width: 36
+        height: 42
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stairs_11
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 931
+        width: 36
+        height: 43
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stairs_gun_01
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 896
+        width: 41
+        height: 60
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stairs_gun_02
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 897
+        width: 41
+        height: 61
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stairs_gun_03
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 899
+        width: 42
+        height: 60
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: special_dash_01
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 821
+        width: 35
+        height: 48
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: special_dash_02
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 821
+        width: 37
+        height: 59
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: special_dash_03
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 821
+        width: 37
+        height: 58
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: special_dash_04
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 831
+        width: 40
+        height: 47
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: special_dash_05
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 828
+        width: 61
+        height: 56
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: special_dash_06
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 828
+        width: 61
+        height: 56
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: special_dash_07
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 827
+        width: 63
+        height: 58
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: special_dash_08
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 825
+        width: 69
+        height: 62
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: special_dash_09
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 823
+        width: 125
+        height: 66
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ultimate_armor_x_216
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 758
+        width: 37
+        height: 51
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ultimate_armor_x_217
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 758
+        width: 32
+        height: 48
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ultimate_armor_x_218
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 751
+        width: 53
+        height: 58
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ultimate_armor_x_219
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 753
+        width: 45
+        height: 53
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ultimate_armor_x_220
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 757
+        width: 35
+        height: 51
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ultimate_armor_x_221
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 757
+        width: 36
+        height: 50
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ultimate_armor_x_222
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 757
+        width: 35
+        height: 49
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ultimate_armor_x_223
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 757
+        width: 35
+        height: 51
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ultimate_armor_x_224
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 757
+        width: 35
+        height: 50
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ultimate_armor_x_225
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 757
+        width: 35
+        height: 49
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: teleport_04
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 666
+        width: 40
+        height: 56
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: teleport_07
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 668
+        width: 60
+        height: 79
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: teleport_08
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 671
+        width: 52
+        height: 76
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: teleport_09
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 670
+        width: 48
+        height: 72
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: teleport_10
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 675
+        width: 8
+        height: 82
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: teleport_01
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 666
+        width: 38
+        height: 47
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: teleport_03
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 666
+        width: 36
+        height: 49
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: teleport_05
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 667
+        width: 39
+        height: 46
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ultimate_armor_x_235
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 666
+        width: 48
+        height: 50
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: teleport_02
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 666
+        width: 35
+        height: 43
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ultimate_armor_x_244
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 595
+        width: 40
+        height: 44
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ultimate_armor_x_245
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 597
+        width: 44
+        height: 37
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ultimate_armor_x_246
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 598
+        width: 53
+        height: 37
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ultimate_armor_x_247
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 598
+        width: 53
+        height: 37
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ultimate_armor_x_248
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 594
+        width: 62
+        height: 48
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ultimate_armor_x_249
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 587
+        width: 62
+        height: 62
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ultimate_armor_x_250
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 583
+        width: 65
+        height: 70
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ultimate_armor_x_251
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 503
+        width: 71
+        height: 76
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ultimate_armor_x_252
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 502
+        width: 55
+        height: 78
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ultimate_armor_x_253
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 501
+        width: 55
+        height: 80
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ultimate_armor_x_254
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 521
+        width: 50
+        height: 45
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ultimate_armor_x_255
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 521
+        width: 48
+        height: 44
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ultimate_armor_x_256
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 521
+        width: 50
+        height: 40
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ultimate_armor_x_257
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 521
+        width: 47
+        height: 38
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ultimate_armor_x_258
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 409
+        width: 40
+        height: 62
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ultimate_armor_x_259
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 409
+        width: 40
+        height: 64
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ultimate_armor_x_260
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 409
+        width: 33
+        height: 69
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ultimate_armor_x_261
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 409
+        width: 42
+        height: 69
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ultimate_armor_x_262
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 409
+        width: 42
+        height: 69
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ultimate_armor_x_263
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 409
+        width: 32
+        height: 68
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ultimate_armor_x_264
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 409
+        width: 32
+        height: 68
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ultimate_armor_x_265
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 409
+        width: 32
+        height: 69
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ultimate_armor_x_266
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 409
+        width: 32
+        height: 69
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ultimate_armor_x_267
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 414
+        width: 37
+        height: 46
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ultimate_armor_x_268
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 414
+        width: 49
+        height: 41
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ultimate_armor_x_269
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 413
+        width: 62
+        height: 22
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ultimate_armor_x_270
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 414
+        width: 63
+        height: 17
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ultimate_armor_x_271
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 325
+        width: 42
+        height: 51
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ultimate_armor_x_272
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 324
+        width: 41
+        height: 51
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ultimate_armor_x_273
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 324
+        width: 48
+        height: 52
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ultimate_armor_x_274
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 324
+        width: 56
+        height: 61
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ultimate_armor_x_275
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 324
+        width: 97
+        height: 65
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ultimate_armor_x_276
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 316
+        width: 103
+        height: 73
+      alignment: 9
+      pivot: {x: .729371905, y: .139109567}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ultimate_armor_x_277
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 315
+        width: 105
+        height: 64
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ultimate_armor_x_278
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 248
+        width: 102
+        height: 52
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ultimate_armor_x_279
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 251
+        width: 72
+        height: 52
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ultimate_armor_x_280
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 256
+        width: 54
+        height: 47
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ultimate_armor_x_281
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 258
+        width: 54
+        height: 45
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ultimate_armor_x_282
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 260
+        width: 55
+        height: 43
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ultimate_armor_x_283
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 260
+        width: 54
+        height: 43
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ultimate_armor_x_284
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 260
+        width: 54
+        height: 43
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ultimate_armor_x_285
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 260
+        width: 47
+        height: 48
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ultimate_armor_x_286
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 177
+        width: 39
+        height: 62
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ultimate_armor_x_287
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 179
+        width: 55
+        height: 61
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ultimate_armor_x_288
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 175
+        width: 83
+        height: 65
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ultimate_armor_x_289
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 179
+        width: 101
+        height: 60
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ultimate_armor_x_290
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 181
+        width: 58
+        height: 56
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ultimate_armor_x_291
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 180
+        width: 47
+        height: 56
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ultimate_armor_x_292
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 177
+        width: 39
+        height: 57
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ultimate_armor_x_293
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 103
+        width: 30
+        height: 60
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ultimate_armor_x_294
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 103
+        width: 37
+        height: 60
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ultimate_armor_x_295
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 103
+        width: 91
+        height: 61
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ultimate_armor_x_296
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 103
+        width: 92
+        height: 62
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ultimate_armor_x_297
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 27
+        width: 94
+        height: 62
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ultimate_armor_x_298
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 31
+        width: 74
+        height: 62
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ultimate_armor_x_299
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 28
+        width: 48
+        height: 62
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ultimate_armor_x_300
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 29
+        width: 37
+        height: 61
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ultimate_armor_x_301
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 30
+        width: 38
+        height: 60
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stairs_08
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 900
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
